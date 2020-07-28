@@ -269,10 +269,11 @@ footer {
     width: 30vw;
 }
 
-.left-img video {
+.left-img iframe {
     text-align: center;
     width: 40vw;
     margin: auto;
+    height: 50vh;
 }
 
 .right-img img {
